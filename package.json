@@ -1,7 +1,7 @@
 {
   "name": "ishan",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a npx card for Ishan Jain",
   "main": "cli.js",
   "bin": {
@@ -16,7 +16,10 @@
     "pub": "npm version major & npm publish"
   },
   "keywords": [
-    "npx", "cli" , "npm-package", "package"
+    "npx",
+    "cli",
+    "npm-package",
+    "package"
   ],
   "author": "ishanjain1502",
   "license": "ISC",
